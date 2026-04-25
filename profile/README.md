@@ -1,6 +1,8 @@
-# Veoci
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GreywallSoftware/.github/main/profile/assets/veoci-logo.png" alt="Veoci" width="360">
+</p>
 
-**Collaboration, continuity, and response software that helps save time, money, and lives.**
+<p align="center"><strong>Collaboration, continuity, and response software that helps save time, money, and lives.</strong></p>
 
 Veoci is a no-code platform for managing emergencies, business continuity, and daily operations. We give organizations a virtual Emergency Operations Center with the tools they need to plan, respond, recover, and coordinate across teams. Our customers include government agencies, universities, hospitals, airports, and Fortune 500 companies across four continents.
 
