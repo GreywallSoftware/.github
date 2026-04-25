@@ -12,12 +12,6 @@ Veoci is a single platform where organizations can build forms, workflows, dashb
 
 Our platform serves several industries with purpose-built solutions, including emergency management, business continuity, healthcare, higher education, aviation, and government.
 
-## Engineering
-
-Our stack spans a Vue.js frontend, a Java backend built on Spring Boot, a Python-based AI service, and AWS infrastructure running across multiple regions. We ship on a bi-weekly release cadence and hold ourselves to ISO 27001 and SOC 2 compliance.
-
-We're building **VIA**, our AI assistant for mission-critical operations, designed to help teams find information and act on it faster.
-
 ## Working With Us
 
 We're a team of about 130 people across three continents, and we're growing. If you're interested in joining us, check out our [careers page](https://veoci.com/about/careers/).
